@@ -10,7 +10,7 @@ Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/
 ## Conteúdos 🔥
 Ordenamos o conteúdo para uma melhor pesquisa.
 - [Lista das Empresas 🏢 ](#lista-das-empresas)
-- [Onde buscar vagas 🔍 ](#onde-buscar-vagas-)
+- [Onde buscar vagas 🔍 ](#onde-buscar-vagas--)
 - [Eventos 📆](#eventos-)
 
 ## Lista das Empresas 🏢
@@ -34,8 +34,10 @@ Ordenamos o conteúdo para uma melhor pesquisa.
 * [Stefanini](https://stefanini.com/pt-br/)
 * [Solux TI e Telecom](http://www.soluxti.com.br/)
 * [TechLead IT Solutions](https://www.techlead.com.br/)
+* [Terras](https://www.terras.agr.br)
 * [TOTVS](https://www.totvs.com/home/)
 * [Tupan Sistemas Inteligentes](https://tupansi.com)
+* [Unity Group TI](https://unitygroupti.com/)
 * [Vibe Desenvolvimento](http://www.vibedesenv.com/)
 * [VoxData](https://www.voxdatati.com.br/)
 * [W3 Automação e Sistemas](http://w3as.com.br/)
